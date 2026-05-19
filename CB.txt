@@ -1,0 +1,5 @@
+```
+<script type="text/javascript"
+  src="https://api.chatbox.deca.cloud/v1/script/01kedm0hzsdhxhstfyayawyg36/01krz14frtmd1z1q5cv6dpxg22">
+</script>
+```
